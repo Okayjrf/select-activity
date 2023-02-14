@@ -123,3 +123,5 @@ ORDER BY count ASC;
 --  MODEL S  |   225
 --  MODEL 3  |   474
 -- (5 rows)
+
+-- What is the number of Ford Focus's?
